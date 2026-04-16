@@ -336,3 +336,70 @@ ORDER BY l.lesson_id;
 
 ---
 
+## 🎓 Learning Outcomes
+
+By building this project, you'll understand:
+
+✅ **Database design** - Schema with relationships and constraints
+✅ **Data generation** - Simulate realistic user behavior
+✅ **SQL analytics** - Window functions, CTEs, aggregations
+✅ **Python-DB integration** - Connect and query programmatically
+✅ **Data visualization** - Tell stories with charts
+✅ **Full-stack thinking** - Data pipeline from DB → insights → UI
+
+---
+
+## 🚀 Future Enhancements
+
+### Phase 2 (Optional upgrades)
+- [ ] Predictive modeling: Predict which users will drop off
+- [ ] ML clustering: Segment users by behavior patterns
+- [ ] Real-time alerts: Flag cohorts with unusual drop-off
+- [ ] A/B testing framework: Test course variations
+- [ ] Recommendation engine: Suggest courses based on user history
+
+### Phase 3 (Advanced)
+- [ ] Deploy to cloud (AWS RDS + EC2 Streamlit)
+- [ ] Add user authentication
+- [ ] Export reports to PDF
+- [ ] Integrate with Slack alerts
+
+---
+
+## 📚 Resources
+
+- [Oracle SQL Tutorial](https://docs.oracle.com/en/database/)
+- [Pandas Documentation](https://pandas.pydata.org/)
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [Cohort Analysis Guide](https://www.optimizesmart.com/cohort-analysis/)
+- [SQL Window Functions](https://mode.com/sql-tutorial/sql-window-functions/)
+
+---
+
+## 🤝 Contributing
+
+This is a personal project, but feel free to fork and adapt for your own learning!
+
+---
+
+## 📝 License
+
+This project is open source under the MIT License.
+
+---
+
+## ✍️ Author
+
+**Bhaskar**  
+*Data Analytics & Machine Learning Enthusiast*
+
+---
+
+## 📧 Questions?
+
+Have questions or found issues? Open an issue on GitHub or reach out.
+
+---
+
+**Last Updated:** April 2026  
+**Status:** Active Development
