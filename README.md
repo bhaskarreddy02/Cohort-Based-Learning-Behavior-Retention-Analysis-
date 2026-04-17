@@ -325,7 +325,7 @@ ORDER BY l.lesson_id;
 | duration_minutes | NUMBER | Time spent (optional) |
 
 ---
-
+users,enrolments,lessons,activiy logs
 ## 💡 Key Insights You Can Extract
 
 1. **Onboarding effectiveness:** Do users complete lesson 1? (predictor of retention)
