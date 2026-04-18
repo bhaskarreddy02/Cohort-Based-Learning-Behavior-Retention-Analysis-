@@ -134,7 +134,7 @@ CohortIQ-Learning-Analytics/
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### **Prerequisites**
 - Oracle Database (11g or higher) installed locally or accessible
